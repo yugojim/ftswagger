@@ -51,9 +51,7 @@ externalDocs:
   description: Find out more about 緯謙科技
   url: https://www.wiadvance.com/
 servers:
-  - url: http://211.73.81.25:8100
-    description: 敏盛FHIR API
-  - url: http://202.5.253.182:8100
+  - url: http://203.145.218.39:8100
     description: 方鼎FHIR API
 tags:
   - name: 交換單張
